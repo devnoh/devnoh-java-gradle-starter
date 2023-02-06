@@ -1,0 +1,1 @@
+# devnoh-java-gradle-starter
